@@ -1,0 +1,26 @@
+body,.container{
+    padding:0;
+    margin:0;
+}
+
+.sidebar,button{
+    background-color:#4ade80;
+}
+
+.header,.card{
+    background-color: #ffff;
+}
+
+.search-input,.main-content{
+    background-color: #d1d5db;
+}
+
+.dashboard-logo>img{
+    height: 30px;
+    width:30px;
+}
+
+.item-logo>img,.search-logo>img,.card-actions>li>img{
+    height:20px;
+    width:20px;
+}
